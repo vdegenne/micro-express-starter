@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "description": "description",
   "author": "author",
+  "repository": "repository",
   "license": "MIT",
   "scripts": {
     "start": "node build/%appname%",
